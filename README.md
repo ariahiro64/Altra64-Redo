@@ -1,6 +1,10 @@
 # Altra64-Redo
 A attempt to remove problems with Altra64. not meant for users yet.
 
+#THIS ISNT MEANT FOR USERS
+#THIS ISNT MEANT FOR USERS
+#THIS ISNT MEANT FOR USERS
+
 #Why
 Altra64 has issues
   layers and layers of old code
@@ -26,3 +30,4 @@ fix 64dd conversion issues
 fix mp3 slowdown
 
 list goes on
+after everything is satisfactory i will add a moster commit to the main repo.
